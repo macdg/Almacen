@@ -1,0 +1,2 @@
+En esta versión se arreglo el problema de mostrar la vista del formulario después de subir los datos a la db, así como, límitar el upload de archivo si ya se tenia en la carpeta destino.
+
